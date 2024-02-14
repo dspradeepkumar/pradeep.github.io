@@ -12,7 +12,7 @@ layout: default
 
 + In summary, the feedback suggests that the course was enjoyable and intriguing, with a variety of content that kept the students engaged and motivated.  The in-class labs were particularly appreciated, providing hands-on experience in solving real-life scenarios that increased their motivation to study.
 
-## Evidence of Excellence in Innovation and Research
+# Evidence of Excellence in Innovation and Research
 
 + Innovative activities for teaching: I have successfully adapted IT technology into my teaching, using tools such as the automatic grader (Teams Assignments and grades) for an efficient and fair assessment of assignments and exams, Discord for fostering real-time communication and collaboration among students, and Teams Quiz for interactive review sessions to enhance student engagement and learning outcomes. In addition to those innovative methods, I also meticulously curate and supply binary analysis tools and online language tools for the hands-on labs, ensuring that students have access to a comprehensive range of virtual resources that not only enhance their learning experience but also empower them to effectively explore the intricacies of privacy and security in a safe and controlled environment.
 
@@ -26,3 +26,23 @@ layout: default
 
 + I had the pleasure of working on the static analysis of Android corporate applications alongside Dr. Carlos Rubio Medrano and Dr. Jaejong Baek, and we excitingly published our research paper in Information Systems Frontiers.
 
+# Courses on Teaching and Learning
+
+## Teaching Plans
+As a cybersecurity professional, I am excited to teach a variety of courses to both undergraduate and graduate students. At the undergraduate level, I can offer introductory courses in computer science and cybersecurity, including:
+
+## Basic Course
++ Introduction to Programming Languages
++ Software Engineering
++ Computer Organization & Assembly Language Programming
++ Programming Languages
+
+## Cybersecurity Course
++ Information Assurance
++ Cybersecurity for Data Science
+
+For graduate students, I can teach advanced courses that reflect my research experience in cybersecurity, such as:
+
++ Information Assurance and Security
++ Android Framework Security
++ Mobile Devices and Security
