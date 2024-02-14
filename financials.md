@@ -10,8 +10,8 @@ layout: default
 + Financial support for the edited volume “Oldenburger Jahrbuch für Philosophie 2021/2022” (2023; University of Oldenburg, Department of Philosophy; XXX,XX euro; jointly with Helena Esther Grass)
 -->
 
-+ Travel grant for the Doctoral Symposium presentation at OOPSLA 2006 (2006, $1000) ([Link] (https://www.oopsla.org/2006/program/program/doctoral_symposium.html))
-+ Accenture Travel grant for the paper presentation at ECOOP 2014 (2014) ([Link] (http://ecoop14.it.uu.se/))
++ Travel grant for the Doctoral Symposium presentation at OOPSLA 2006 (2006, $1000) ([Link](https://www.oopsla.org/2006/program/program/doctoral_symposium.html))
++ Accenture Travel grant for the paper presentation at ECOOP 2014 (2014) ([Link](http://ecoop14.it.uu.se/))
 
 ## Honors
 

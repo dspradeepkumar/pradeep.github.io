@@ -11,7 +11,7 @@ layout: default
 
 + Carlos E Rubio-Medrano, Pradeep Kumar Duraisamy Soundrapandian, Matthew Hill, Luis Claramunt, Jaejong Baek, and Gail-Joon Ahn. 2023. DyPolDroid: Protecting against permission-abuse attacks in android. Information Systems Frontiers 25, 2 (2023), 529–548. ([Link](https://asu.elsevierpure.com/en/publications/dypoldroid-protecting-against-permission-abuse-attacks-in-android))
 
-+ S Pradeepkumar Duraisamy, S Geetha, Xiaochun Cheng, and Seifedine Kadry. 2022. On Shielding Android’s Pending Intent from Malware Apps Using a Novel Ownership-Based Authentication. Journal of Circuits, Systems and Computers 31, 13 (2022), 2250224. ([Link] (https://www.worldscientific.com/doi/10.1142/S0218126622502243))
++ S Pradeepkumar Duraisamy, S Geetha, Xiaochun Cheng, and Seifedine Kadry. 2022. On Shielding Android’s Pending Intent from Malware Apps Using a Novel Ownership-Based Authentication. Journal of Circuits, Systems and Computers 31, 13 (2022), 2250224. ([Link](https://www.worldscientific.com/doi/10.1142/S0218126622502243))
 
 
 
@@ -25,13 +25,13 @@ layout: default
 
 + Pradeepkumar Duraisamy Soundrapandian and S Geetha. 2022. Ensemble Learning on a Weak Correlated Android Malware data using Stratified K-Fold. In 2022 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS), IEEE, 187–192.
 
-+ Duraisamy S Pradeep Kumar. 2008. Alias count facilitate ownership transfer. In Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming systems languages and applications, 755–756. ([Link] (https://dl.acm.org/doi/10.1145/1449814.1449846))
++ Duraisamy S Pradeep Kumar. 2008. Alias count facilitate ownership transfer. In Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming systems languages and applications, 755–756. ([Link](https://dl.acm.org/doi/10.1145/1449814.1449846))
 
-+ Pradeep Kumar. 2006. Modal logic & ownership types: Uniting three worlds. In Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming systems, languages, and applications, 778–779. ([Link] (https://dl.acm.org/doi/10.1145/1176617.1176721))
++ Pradeep Kumar. 2006. Modal logic & ownership types: Uniting three worlds. In Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming systems, languages, and applications, 778–779. ([Link](https://dl.acm.org/doi/10.1145/1176617.1176721))
 
-+ Pradeepkumar D S. Misra and Janardan. 2014. Owners as Trusters: Trusted Ownership Declassification with Neighbourhood. In In IWACO: International Workshop on Aliasing, Capabilities, and Ownership, 2014, (co-located with ECOOP 2014), https://github.com/trustedownership/publication/blob/master. ([Link] (https://github.com/trustedownership/publication/tree/master))
++ Pradeepkumar D S. Misra and Janardan. 2014. Owners as Trusters: Trusted Ownership Declassification with Neighbourhood. In In IWACO: International Workshop on Aliasing, Capabilities, and Ownership, 2014, (co-located with ECOOP 2014), https://github.com/trustedownership/publication/blob/master. ([Link](https://github.com/trustedownership/publication/tree/master))
 
-+ Pradeep Kumar Duraisamy Soundrapandian. 2010. Typelets. In Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion, 235–236. ([Link] (https://dl.acm.org/doi/10.1145/1869542.1869591))
++ Pradeep Kumar Duraisamy Soundrapandian. 2010. Typelets. In Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion, 235–236. ([Link](https://dl.acm.org/doi/10.1145/1869542.1869591))
 
 + PradeepKumar .D.S and Dr.Chandrasekaran. 2011. Per-object Ownership Transfer: Using Delegation and Diffusion.
 
