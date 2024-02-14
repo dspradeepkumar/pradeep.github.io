@@ -22,14 +22,3 @@ I have extensive experience across various aspects of the software industry, inc
  
 ## Areas of Research
 My main areas of research focus encompass Dynamic Knowledge Sharing, Encoding Bots learning and secure communication between Bots, Dynamic Program Analysis, Machine Learning, and Artificial Intelligence. 
-
-## Current Research Areas
-
-I am presently engaged in the application of Artificial Intelligence, Machine Learning, and Collective Intelligence to create a dynamic, decentralized learning BOT ecosystem tailored for inter-app communications within Mobile Applications. This system is designed to effectively manage uncertain knowledge and beliefs.
- 
-
-## Collaborative Works
-
-I have experience in collaborating with clients to comprehend their problem statements and requirements, where I propose solutions and architectures to address their challenges. I possess rapid learning capabilities and the aptitude to apply my knowledge to deliver high-quality solutions within specified timelines.
-
-Prior to embarking on my Ph.D. journey, I held the position of Research Scholar at Arizona State University. During my tenure there, I focused on cybersecurity attacks within the Android Open Source Project (AOSP), and my findings were published in HICSS'54. At present, I am actively involved in an Android Security project in partnership with professors from both Arizona State University and Texas A&M University.
