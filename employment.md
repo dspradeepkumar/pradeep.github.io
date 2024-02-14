@@ -6,15 +6,19 @@ layout: default
 
 <dl>
    <dt>Research and Engineering Scientist</dt>
-      <dd>June 2018 – June 2022, October 2022 – March 2024; University of Oldenburg, Department of Philosophy; working for Mark Siebel</dd>
-   <dt>Research Associate</dt>
-      <dd>August 2017 – December 2017; Helmut Schmidt University, University of the Federal Armed Forces Hamburg, Department of Economics; working for Stefan Traub</dd>
-   <dt>Teaching Associate</dt>
-      <dd>April 2017 – March 2018, October 2018 – March 2021, October 2022 – March 2023, October 2023 – September 2024; University of Oldenburg, Department of Philosophy</dd>
+      <dd>Zoho Corporations, India, July 2023 - Present</dd>
+   <dt>Research and Teaching Assistant</dt>
+      <dd>VIT University, July 2020 - June 2023	</dd>
+   <dt>Data Science (Intern)</dt>
+      <dd>SKAN AI, Aug 2022 - Feb 2023</dd>
+   <dt>Research Scholar</dt>
+      <dd>SEFCOM LABS, Arizona State University, March 2019 - April 2020</dd>
+   <dt>Associate Principal R&D</dt>
+      <dd>Accenture Labs, Bangalore, June 2011 - March 2019</dd>
+   <dt>Senior Software Engineer</dt>
+      <dd>Sasken Communications, Bangalore, May 2010 - June 2011</dd>
+   <dt>Software Engineer</dt>
+      <dd>TE Software Services, Chennai, Sep 2009 - April 2010</dd>
    <dt>Research Assistant</dt>
-      <dd>February 2015 – June 2018; Karl-Jaspers-Gesellschaft e.V.; working for Matthias Bormuth</dd>
-   <dt>Research Assistant</dt>
-      <dd>October 2013 – June 2018; University of Oldenburg, Department of Philosophy; working for Johann Kreuzer, Mark Siebel, Michael Städtler, and Martin Louis Vialon</dd>
-   <dt>Research Assistant</dt>
-      <dd>April 2012 – June 2013; Institut für Ökonomische Bildung gGmbH; working for Rudolf Schröder</dd>
+      <dd>CEG, Anna University, June 2007 - Aug 2009</dd>
 </dl>
