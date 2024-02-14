@@ -27,7 +27,9 @@ Most of this information can also be found bundled in my CV [here](files/Pradeep
 * * *
 
 <dl>
-   <dt>Areas of Interest:</dt>
+   <dt>Research Keywords:</dt>
+      <dd>Cyber security, Software security, Mobile security and privacy, Data Privacy, Programming Languages, Language-based security, Artificial Intelligence, Data Science, Machine Learning, Security and privacy</dd>
+   <dt>Languages and Tools:</dt>
       <dd>Java, Python, Android, OpenNLP, Javascript, C/C++, ANTLR, GoLang, LLVM, ByteCode, Smali</dd>
    <dt>Services:</dt>
       <dd>(Reviewer) Journal Of Computers and Security (ELSEVIER) </dd>
