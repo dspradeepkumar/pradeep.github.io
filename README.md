@@ -1,15 +1,6 @@
-# Source Code and Assets of pascalmichaillat.org
+# Personal Academic Website
 
-This repository contains the source code and assets of Pascal Michaillat's website at https://pascalmichaillat.org. 
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml)
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-## Source code
-
-The website is built with [Hugo](https://github.com/gohugoio/hugo). The source code is based on the minimalist website template at [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website).
-
-## Assets
-
-The website's assets include [research material](https://pascalmichaillat.org/papers/) and [course material](https://pascalmichaillat.org/courses/). The assets are stored in the `static` folder (mostly as PDF files) and `content` folder (mostly as Markdown files), and they can be batch downloaded from there.
-
-## License
-
-Except where otherwise noted, the website's content was created by Pascal Michaillat and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This is a repository for my [personal academic website](https://alephmembeth.github.io/), which uses a slightly modified version of the [Jekyll](https://jekyllrb.com/) theme “[Minimal](https://github.com/pages-themes/minimal)” for [GitHub Pages](https://pages.github.com/).
