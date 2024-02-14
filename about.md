@@ -19,6 +19,7 @@ I have extensive experience across various aspects of the software industry, inc
 + <b>Mahalanobis Distance-Based Malware Detection Plotting:</b> A lightweight technique that use Mahalanobis distance metrics (rather than using Euclidean) to identify the vulnerable app before installing them on the device.
 + <b>Blockchain for E-Governance and Supply Chain Security:</b> Presented a novel Key-Generation technique at Block Chain Innovation Challenge, Tempe, AZ. Also presented a novel technique to solve Shadow Attacks in E-Government Document Sharing.
 + <b>Blockchain Metrics:</b> A novel Blockchain Metrics combining Software Automation, NLP, and Blockchain Environment, called "Blockchain Digitizability Metrics" (a method to identify the digitizability from requirements). 
- 
+
+
 ## Areas of Research
 My main areas of research focus encompass Dynamic Knowledge Sharing, Encoding Bots learning and secure communication between Bots, Dynamic Program Analysis, Machine Learning, and Artificial Intelligence. 
