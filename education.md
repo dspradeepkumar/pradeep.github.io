@@ -10,7 +10,7 @@ layout: default
    <dt>Master of Science (by Research)</dt>
       <dd>December 2010; Anna University; thesis <a href="files/PradeepKumar_MSThesis_2009.pdf">here</a> : “Object Migration in a Class-Based Ownership Environment”; supervisor: Dr. Saswathi Mukherjee </dd>
    <dt>Bachelor of Engineering (CSE)</dt>
-      <dd>April 2004; University of Madras; thesis: “Linc - Cross Compiler”; supervisor: Prof.Maheshwari</dd>
+      <dd>April 2004; University of Madras; thesis: “Linc - Cross Compiler”</dd>
 </dl>
 
 M.S. (by Research) Thesis [here](files/PradeepKumar_MSThesis_2009.pdf)
