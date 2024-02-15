@@ -4,7 +4,7 @@ layout: default
 
 # Evidence of Excellence in Innovation and Research
 
-+ Innovative activities for teaching: I have successfully adapted IT technology into my teaching, using tools such as the automatic grader (Teams Assignments and grades) for an efficient and fair assessment of assignments and exams, Discord for fostering real-time communication and collaboration among students, and Teams Quiz for interactive review sessions to enhance student engagement and learning outcomes. In addition to those innovative methods, I also meticulously curate and supply binary analysis tools and online language tools for the hands-on labs, ensuring that students have access to a comprehensive range of virtual resources that not only enhance their learning experience but also empower them to effectively explore the intricacies of privacy and security in a safe and controlled environment.
++ __Innovative activities for teaching:__ I have successfully adapted IT technology into my teaching, using tools such as the automatic grader (Teams Assignments and grades) for an efficient and fair assessment of assignments and exams, Discord for fostering real-time communication and collaboration among students, and Teams Quiz for interactive review sessions to enhance student engagement and learning outcomes. In addition to those innovative methods, I also meticulously curate and supply binary analysis tools and online language tools for the hands-on labs, ensuring that students have access to a comprehensive range of virtual resources that not only enhance their learning experience but also empower them to effectively explore the intricacies of privacy and security in a safe and controlled environment.
 
 + __Innovation  Challenge:__  The Blockchain Innovation Challenge at ASU Skysong served as a platform for our team to delve into the potential applications of blockchain technology and contribute to the establishment of a foundation for its practical implementation.  Our cutting-edge idea, the __”Blockchain-based Key Generation Mechanism,”__ was __awarded as “Most Innovative Capability” in 2019__. Despite encountering technical and non-technical challenges, our team’s efforts showcased the potential for blockchain to transform various industries, such as supply chain management, healthcare, and education.
 
@@ -12,9 +12,9 @@ layout: default
 
 + I worked on the __Android app communication security study in SEFCOM Labs__ in 2019 as a study Scholar at Arizona State University, guided by Prof.Yan, Prof.Tiffany, Prof.Fish, and Prof.Adam and published our research work in HICSS’54 (2021). 
 
-+ I am happy to say that I collaborated with Dr. Jaejong Baek on a study to analyze the LTE network traffic patterns and that our work has recently been approved for publication at IEEE/IFIP DSN 2023. 
++ I am happy to say that __I collaborated with Dr. Jaejong Baek on a study to analyze the LTE network traffic patterns__ and that our work has recently been approved for publication at IEEE/IFIP DSN 2023. 
 
-+ I had the pleasure of working on the static analysis of Android corporate applications alongside Dr. Carlos Rubio Medrano and Dr. Jaejong Baek, and we excitingly published our research paper in Information Systems Frontiers.
++ I had the pleasure of working on the __static analysis of Android corporate applications alongside Dr. Carlos Rubio Medrano and Dr. Jaejong Baek__, and we excitingly published our research paper in Information Systems Frontiers.
 
 # Collaborators
 
