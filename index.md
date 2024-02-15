@@ -11,12 +11,11 @@ I’m a Scientist at the Zoho Corporation, India. If you want to know more about
 
 + [about](./about.md)
 + [publications](./publications.md),
-<!-- + [presentations](./presentations.md), -->
 + [teaching](./teaching.md),
-<!-- + [events](./events.md), -->
 + [research](./research.md),
 + [education](./education.md),
-+ [employment](./employment.md), or
++ [employment](./employment.md), 
++ [collaborations](./collaborators.md), or
 + [grants and honours](./financials.md).
 
 Most of this information can also be found bundled in my CV [here](files/Pradeep_CV.pdf). If that's not enough, you may also be interested in taking a look at my
@@ -37,7 +36,7 @@ Most of this information can also be found bundled in my CV [here](files/Pradeep
 
 ## Current Research Areas
 
-I am presently engaged in the application of Artificial Intelligence, Machine Learning, and Collective Intelligence to create a dynamic, decentralized learning BOT ecosystem tailored for inter-app communications within Mobile Applications. This system is designed to effectively manage uncertain knowledge and beliefs.
+I am presently engaged in the application of __Artificial Intelligence, Machine Learning, and Collective Intelligence__ to create a dynamic, decentralized learning BOT ecosystem tailored for inter-app communications within Mobile Applications. This system is designed to effectively manage uncertain knowledge and beliefs.
  
 
 ## Collaborative Works
