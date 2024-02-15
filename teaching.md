@@ -12,20 +12,6 @@ layout: default
 
 + In summary, the feedback suggests that the course was enjoyable and intriguing, with a variety of content that kept the students engaged and motivated.  The in-class labs were particularly appreciated, providing hands-on experience in solving real-life scenarios that increased their motivation to study.
 
-# Evidence of Excellence in Innovation and Research
-
-+ Innovative activities for teaching: I have successfully adapted IT technology into my teaching, using tools such as the automatic grader (Teams Assignments and grades) for an efficient and fair assessment of assignments and exams, Discord for fostering real-time communication and collaboration among students, and Teams Quiz for interactive review sessions to enhance student engagement and learning outcomes. In addition to those innovative methods, I also meticulously curate and supply binary analysis tools and online language tools for the hands-on labs, ensuring that students have access to a comprehensive range of virtual resources that not only enhance their learning experience but also empower them to effectively explore the intricacies of privacy and security in a safe and controlled environment.
-
-+ Innovation  Challenge:  The Blockchain Innovation Challenge at ASU Skysong served as a platform for our team to delve into the potential applications of blockchain technology and contribute to the establishment of a foundation for its practical implementation.  Our cutting-edge idea, the ”Blockchain-based Key Generation Mechanism,” was awarded as “Most Innovative Capability” in 2019. Despite encountering technical and non-technical challenges, our team’s efforts showcased the potential for blockchain to transform various industries, such as supply chain management, healthcare, and education.
-
-+ Research activities: In a recent corporate experience, I was able to successfully adapt the Large-Language Model (LLM), the most recent generative AI technology, for creating security CAPTCHAs. Taking advantage of the success, I coded and created a prototype CAPTCHA engine based on generative AI. 
-
-+ I worked on the Android app communication security study in SEFCOM Labs in 2019 as a study Scholar at Arizona State University, guided by Prof.Yan, Prof.Tiffany, Prof.Fish, and Prof.Adam and published our research work in HICSS’54 (2021)1. 
-
-+ I am happy to say that I collaborated with Dr. Jaejong Baek on a study to analyze the LTE network traffic patterns and that our work has recently been approved for publication at IEEE/IFIP DSN 2023. 
-
-+ I had the pleasure of working on the static analysis of Android corporate applications alongside Dr. Carlos Rubio Medrano and Dr. Jaejong Baek, and we excitingly published our research paper in Information Systems Frontiers.
-
 # Courses on Teaching and Learning
 
 ## Teaching Plans
