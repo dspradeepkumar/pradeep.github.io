@@ -10,12 +10,13 @@ who would effectively manage our national cybersecurity issues.
 I’m a Scientist at the Zoho Corporation, India. If you want to know more about me, feel free to take a look at my
 
 + [about](./about.md)
-+ [publications](./publications.md),
-+ [teaching](./teaching.md),
-+ [research](./research.md),
-+ [education](./education.md),
-+ [employment](./employment.md), 
-+ [collaborations](./collaborators.md), or
++ [publications](./publications.md)
++ [patents](./patents.md)
++ [teaching](./teaching.md)
++ [research](./research.md)
++ [education](./education.md)
++ [employment](./employment.md)
++ [collaborations](./collaborators.md)
 + [grants and honours](./financials.md).
 
 Most of this information can also be found bundled in my CV [here](files/Pradeep_CV.pdf). If that's not enough, you may also be interested in taking a look at my
