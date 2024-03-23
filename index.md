@@ -19,10 +19,18 @@ I’m a Scientist at the Zoho Corporation, India. If you want to know more about
 + [collaborations](./collaborators.md)
 + [grants and honours](./financials.md).
 
-Most of this information can also be found bundled in my CV [here](files/Pradeep_CV.pdf). If that's not enough, you may also be interested in taking a look at my
+Most of this information can also be found bundled in my CV [here](files/Pradeep_CV.pdf). 
+
+You may also be interested in taking a look at my
 
 + [current projects](./projects.md), or
 + [contact details](./contact.md).
+
+
+# Research Documents
+
++ [Research Statement][here](files/Pradeep_Research_Statement.pdf)
++ [First Representative Publication][here](<files/MuTent- Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contracts.pdf>)
 
 * * *
 
