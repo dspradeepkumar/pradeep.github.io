@@ -10,7 +10,7 @@ who would effectively manage our national cybersecurity issues.
 I’m a Scientist at the Zoho Corporation, India. If you want to know more about me, feel free to take a look at my
 
 + [about](./about.md)
-+ [innovations](./innovation.md)
++ [innovations](./innovations.md)
 + [publications](./publications.md)
 + [patents](./patents.md)
 + [teaching](./teaching.md)
