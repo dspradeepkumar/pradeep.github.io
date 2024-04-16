@@ -13,7 +13,7 @@ Prior to embarking on my Ph.D. journey, I held the position of Research Scholar 
 
 At present, I am actively involved in an Android Security project in partnership with professors from both Arizona State University and Texas A&M University.
 
-I’m a Scientist at the Zoho Corporation, India. If you want to know more about me, feel free to take a look at my
+Presently, I’m a Scientist at the Zoho Corporation, India. If you want to know more about me, feel free to take a look at my
 
 + [about](./about.md)
 + [innovations](./innovations.md)
