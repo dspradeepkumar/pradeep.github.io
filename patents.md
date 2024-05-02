@@ -1,6 +1,6 @@
 ## Patents
 
-# Filed From Accenture
+## Filed From Accenture
 
 1. US11256712B2, __Pradeepkumar DURAISAMY SOUNDRAPANDIAN__, Kapil Singi, Vikrant Kaulgud, RAPID DESIGN, DEVELOPMENT, AND REUSE OF BLOCKCHAIN ENVIRONMENT AND SMART CONTRACTS.
 
@@ -22,7 +22,7 @@
 
 1. “System For choreographing and Recommendation of apps based on collective intelligence and prediction capability” – Filed (US) 2019
 
-# Filed From Zoho
+## Filed From Zoho
 
 1. __Pradeepkumar Duraisamy Soundrapandian__, Punithavathi P, “Image Captcha Using Generative AI” – Filed (US) 2023
 
